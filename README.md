@@ -4,7 +4,7 @@
   width="25"
   height="25"
 /><h1 align="center">Hi 👋, I'm Ransara Devnath</h1>
-<h3 align="center">A paimssionate frontend developer from India</h3>
+<h3 align="center">A paimssionate frontend developer from Srilanka</h3>
 
 - 🔭 I’m currently working on [Sl Sudda Bot](https://github.com/ransara-devnath/SL-Sudda-Bot)
 
