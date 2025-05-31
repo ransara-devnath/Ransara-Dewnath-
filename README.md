@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ransara Devnath</h1>
+<img
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Cat%20With%20Tears%20Of%20Joy.webp"
+  alt="Cat with Tears of Joy"
+  width="25"
+  height="25"
+/><h1 align="center">Hi 👋, I'm Ransara Devnath</h1>
 <h3 align="center">A paimssionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Sl Sudda Bot](https://github.com/ransara-devnath/SL-Sudda-Bot)
